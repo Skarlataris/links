@@ -3,6 +3,8 @@ LINKS CONSULTORIO EXTERNO VALDIVIA
 0.- [DUDAS](https://docs.google.com/document/d/1bOwg_OQ6h6Trjj7f0nnNwZmc02n9BjqGJbgXgoAdjiE/edit?usp=sharing)
 0. [PACIENTE](https://docs.google.com/document/d/1TwQJT3PZdaDRx581euOz8eNFVYOMr8WJuMfNLJ7NFwM/edit?usp=sharing)
 
+1. [CIE 10 ](https://cpockets.com/cie10)
+
 1.- [RAS VALDIVIA - SOLO CHROME](https://www.rasvaldivia.cl/rasvaldivia/index.php)
 
 2.- [EXCEL EQUIPO DOMICILIO CEV](https://docs.google.com/spreadsheets/d/1ANvvCo8nJ3TbZ4TCb6vuQNF8ADmo04cAdzDgOBoqZyE/edit#gid=1951390892)
