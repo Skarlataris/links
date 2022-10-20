@@ -2,6 +2,7 @@ LINKS CONSULTORIO EXTERNO VALDIVIA
 0.- [notas](https://docs.google.com/document/d/11Iw4xhGJWB6ftGyBgigvJVe40xkSf-35C4Xa9XXxPds/edit?usp=sharing)
 0.- [DUDAS](https://docs.google.com/document/d/1bOwg_OQ6h6Trjj7f0nnNwZmc02n9BjqGJbgXgoAdjiE/edit?usp=sharing)
 0. [PACIENTE](https://docs.google.com/document/d/1TwQJT3PZdaDRx581euOz8eNFVYOMr8WJuMfNLJ7NFwM/edit?usp=sharing)
+0. [PACIENTES PENDIENTES INFINITOS](https://docs.google.com/spreadsheets/d/1lM9jLtLu75XmAHBDJcKDhqzJTNj3fxNhZC8ylYj6ZAc/edit?usp=sharing)
 
 1. [CIE 10 ](https://cpockets.com/cie10)
 
