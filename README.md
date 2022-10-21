@@ -3,7 +3,7 @@ LINKS CONSULTORIO EXTERNO VALDIVIA
 0.- [DUDAS](https://docs.google.com/document/d/1bOwg_OQ6h6Trjj7f0nnNwZmc02n9BjqGJbgXgoAdjiE/edit?usp=sharing)
 0. [PACIENTE](https://docs.google.com/document/d/1TwQJT3PZdaDRx581euOz8eNFVYOMr8WJuMfNLJ7NFwM/edit?usp=sharing)
 0. [PACIENTES PENDIENTES INFINITOS](https://docs.google.com/spreadsheets/d/1lM9jLtLu75XmAHBDJcKDhqzJTNj3fxNhZC8ylYj6ZAc/edit?usp=sharing)
-0. [tex fixer] (https://www.textfixer.com/tools/remove-line-breaks.php)
+0. [tex fixer](https://www.textfixer.com/tools/remove-line-breaks.php)
 1. [CIE 10 ](https://cpockets.com/cie10)
 
 1.- [RAS VALDIVIA - SOLO CHROME](https://www.rasvaldivia.cl/rasvaldivia/index.php)
