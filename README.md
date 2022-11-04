@@ -20,6 +20,8 @@
 
 [RAS VALDIVIA - SOLO CHROME](https://www.rasvaldivia.cl/rasvaldivia/index.php)
 
+[CORE HBV](https://www.hbvaldivia.cl/core/ingreso?redirect=)
+
 [EXCEL EQUIPO DOMICILIO CEV](https://docs.google.com/spreadsheets/d/1ANvvCo8nJ3TbZ4TCb6vuQNF8ADmo04cAdzDgOBoqZyE/edit#gid=1951390892)
 
 [SECTOR CLAUDIO ARRAU](https://docs.google.com/spreadsheets/d/1oB3SgFD9pH4nKvUNgZ-epRKod6mSdAYGH4V0ZhYcE2E/edit#gid=886783487)
@@ -27,6 +29,8 @@
 [EXCEL Licencias medicas COVID. CEV](https://docs.google.com/spreadsheets/d/1ehM8jI2CKxMpQVhDQoNSp3Z00iBcW0yQ/edit#gid=1675640099)
 
 [CONTROLES COVID+](https://docs.google.com/spreadsheets/d/19L_MKD48GDI1dxeg0iQs02UjUBhTZfZg6jx69CZ2dBY/edit#gid=111299985)
+
+
 
 ## LINKS DOCUMENTOS ESTUDIO
 
