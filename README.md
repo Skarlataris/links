@@ -15,6 +15,7 @@
 [tex fixer](https://www.textfixer.com/tools/remove-line-breaks.php)
 
 [CIE 10 ](https://cpockets.com/cie10)
+[surmediimagen ](https://api.surmedimagen.ziz.cl/widget/user/login)
 
 ## Enlaces / EXCEL 
 
