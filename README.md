@@ -40,4 +40,5 @@
 [DRIVE CONTROLES CONSULTORIO ](https://drive.google.com/drive/folders/1Wd0cuoZPJIWj7j-0Hr24r7MKXWmSusE5    )
 
 [ Hipotiroidismo  ](  https://www.clinicalascondes.cl/Dev_CLC/media/Imagenes/PDF%20revista%20m%C3%A9dica/2013/5%20septiembre/3_Liberman.pdf )
+[Gonalgia APS PUC](http://medicinafamiliar.uc.cl/html/articulos/483.html)
 
