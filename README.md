@@ -32,7 +32,9 @@
 
 [CONTROLES COVID+](https://docs.google.com/spreadsheets/d/19L_MKD48GDI1dxeg0iQs02UjUBhTZfZg6jx69CZ2dBY/edit#gid=111299985)
 
-
+## ENLACES UTILES
+[RECETA MINSAL](https://prescripcion-receta.minsal.cl/auth/login)
+[FARMACIA MUNICIPAL](https://farmaciacomunalonline.cl/Home/Index?farmacia=Valdivia)
 
 ## LINKS DOCUMENTOS ESTUDIO
 
