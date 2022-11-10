@@ -10,6 +10,10 @@
 
 [PACIENTES PENDIENTES INFINITOS](https://docs.google.com/spreadsheets/d/1lM9jLtLu75XmAHBDJcKDhqzJTNj3fxNhZC8ylYj6ZAc/edit?usp=sharing)
 
+## DOCUMENTOS GES
+[RESUMEN GES ](https://docs.google.com/document/d/1EsWyKjKAex7plnPJXDqk8OpTsomXg8qG--GX3z5RheY/edit?usp=sharing)
+[PATOLGIAS GES EXCEL RESUMEN](https://docs.google.com/spreadsheets/d/1jVCj_UoWruKjXgJY0adBlFZcm1pI3s3J/edit?usp=sharing&ouid=101088942804835635634&rtpof=true&sd=true)
+
 ## Herramientas
 
 [tex fixer](https://www.textfixer.com/tools/remove-line-breaks.php)
