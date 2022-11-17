@@ -2,6 +2,8 @@
 
 ## Notas 
 
+[PLANTILLAS](https://github.com/Skarlataris/links/blob/main/documentos/plantillas.md)
+
 [notas](https://docs.google.com/document/d/11Iw4xhGJWB6ftGyBgigvJVe40xkSf-35C4Xa9XXxPds/edit?usp=sharing)
 
 [DUDAS](https://docs.google.com/document/d/1bOwg_OQ6h6Trjj7f0nnNwZmc02n9BjqGJbgXgoAdjiE/edit?usp=sharing)
