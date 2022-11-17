@@ -1,4 +1,4 @@
-##EXAMEN FÍSICO 
+## EXAMEN FÍSICO 
 
 VIGIL, CLOTE
 
@@ -18,7 +18,7 @@ EEII SIN SIGNOS DE TVP NI EDEMA.
 
 
 
-##PSCV 
+## PSCV 
 
 AM: 
 
