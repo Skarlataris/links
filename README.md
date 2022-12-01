@@ -20,9 +20,11 @@
 
 [tex fixer](https://www.textfixer.com/tools/remove-line-breaks.php)
 
-[CIE 10 ](https://cpockets.com/cie10)
-[surmediimagen ](https://api.surmedimagen.ziz.cl/widget/user/login)
-[UNIR PDF ](https://pdfjoiner.com/es/)
+[CIE 10 ](https://cpockets.com/cie10)  
+[surmediimagen ](https://api.surmedimagen.ziz.cl/widget/user/login)  
+[UNIR PDF ](https://pdfjoiner.com/es/)  
+[EXAMENES RED SALUD ](https://examenes.redsalud.cl/#/)  
+
 
 ## Enlaces / EXCEL 
 
