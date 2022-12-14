@@ -2,6 +2,7 @@
 
 ## Notas 
 
+[Guia farmacos ](https://yaldaba0th.github.io/GuiaTratamientos/)  
 [PLANTILLAS](https://github.com/Skarlataris/links/blob/main/documentos/plantillas.md)
 
 [notas](https://docs.google.com/document/d/11Iw4xhGJWB6ftGyBgigvJVe40xkSf-35C4Xa9XXxPds/edit?usp=sharing)
