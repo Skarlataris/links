@@ -1,5 +1,15 @@
 # LINKS CONSULTORIO EXTERNO VALDIVIA 
+18775650
+18775650
 
+14380630
+1208
+
+13461225
+1225
+
+17512895
+1234
 ## Notas 
 
 [Guia farmacos ](https://yaldaba0th.github.io/GuiaTratamientos/)  
