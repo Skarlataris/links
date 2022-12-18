@@ -11,7 +11,7 @@
 17512895
 1234
 ## Notas 
-
+[INTERCONSULTAS MINSAL](https://interconsulta.minsal.cl/home)  
 [Guia farmacos ](https://yaldaba0th.github.io/GuiaTratamientos/)  
 [PLANTILLAS](https://github.com/Skarlataris/links/blob/main/documentos/plantillas.md)
 
